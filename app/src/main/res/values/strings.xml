@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVVM</string>
+    <string name="login">Логин</string>
+    <string name="enter">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="description">logo</string>
 </resources>
